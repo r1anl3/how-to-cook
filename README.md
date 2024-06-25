@@ -2,6 +2,10 @@
 
 The ultimate handbook not about food
 
+## Author
+
+Le Huynh Quang Vu - 21522797
+
 ## Content Overview
 
 This repository is organized to provide a clear and accessible structure for various document formats:
