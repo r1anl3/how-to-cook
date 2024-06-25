@@ -33,4 +33,4 @@ Some useful information for final examination
 - [EC311 - Tiếp thị trực tuyến](./md/EC311.md)
 - [NT402 - Công nghệ mạng viễn thông](./md/NT402.md)
 - [NT531 - Đánh giá hiệu năng hệ thống mạng máy tính](./md/NT531.md)
-- [NT533 - Công nghệ Internet of Things hiện đại](./md/NT533.md)
+- [NT532 - Công nghệ Internet of Things hiện đại](./md/NT533.md)
