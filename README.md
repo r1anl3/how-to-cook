@@ -2,7 +2,7 @@
 
 The ultimate handbook not about food
 
-### Content Overview
+## Content Overview
 
 This repository is organized to provide a clear and accessible structure for various document formats:
 
@@ -10,19 +10,19 @@ This repository is organized to provide a clear and accessible structure for var
 - Markdown Files (md): Easily readable and editable text documents reside in the "md" folder
 - PDF Files (pdf): Printable documents in the "pdf" folder
 
-### Who this repository for?
+## Who this repository for?
 
 Students majoring in Computer Networking at University of Information Technology - VNU HCM
 
 *and so on...*
 
-### What does this repository have?
+## What does this repository have?
 
 Some useful information for final examination
 
 *and so on...*
 
-### UIT Courses 
+## UIT Courses 
 
 - [NT101 - An toàn mạng máy tính](./md/NT101.md)
 - [NT113 - Thiết kế mạng](./md/NT113.md)
