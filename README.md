@@ -2,10 +2,6 @@
 
 The ultimate handbook not about food
 
-## Author
-
-Le Huynh Quang Vu - 21522797
-
 ## Content Overview
 
 This repository is organized to provide a clear and accessible structure for various document formats:
@@ -13,6 +9,9 @@ This repository is organized to provide a clear and accessible structure for var
 - Images (img): Visual content such as charts, diagrams, or screenshots within the "img" folder
 - Markdown Files (md): Easily readable and editable text documents reside in the "md" folder
 - PDF Files (pdf): Printable documents in the "pdf" folder
+
+> [!IMPORTANT] 
+> These notes are intended for my personal use in preparation for the final course examination. They are not a substitute for official learning materials provided by the instructor.
 
 ## Who this repository for?
 
